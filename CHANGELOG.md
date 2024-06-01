@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.1](https://github.com/stevearc/oil.nvim/compare/v2.9.0...v2.9.1) (2024-06-01)
+
+
+### Bug Fixes
+
+* error opening command window from oil float ([#378](https://github.com/stevearc/oil.nvim/issues/378)) ([06a19f7](https://github.com/stevearc/oil.nvim/commit/06a19f77f1a1da37b675635e6f9c5b5d50bcaacd))
+
 ## [2.9.0](https://github.com/stevearc/oil.nvim/compare/v2.8.0...v2.9.0) (2024-05-16)
 
 
